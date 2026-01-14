@@ -16,7 +16,7 @@ My interests focus on AI, healthcare, biomedical data, and data-driven decision 
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Projects
 
 - 🧠 **[Epileptic Seizure Prediction using EEG Signals](https://github.com/DSraneem/epileptic-seizure-prediction-eeg)**  
   Healthcare-focused AI project using EEG time-series data and machine learning.
