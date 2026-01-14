@@ -17,33 +17,6 @@ My interests focus on AI, healthcare, biomedical data, and data-driven decision 
 ---
 
 ### 🧩 Featured Projects
-- 🧠 **Epileptic Seizure Prediction using EEG Signals**
-- ⚙️ **Weather Data ETL & ELT Pipelines**
-- 📊 **Uber Analytics Dashboard (Power BI)**
-- 🤖 **Machine Learning Models Comparison**
-- 📊 **Data Mining Project**
-- 🔍 **Information Retrieval using TF-IDF**
-- 📈 **Big Data Analysis**
-
----
-
-### 🛠️ Skills
-- **Languages:** Python, SQL
-- **ML & AI:** Scikit-learn, Applied ML, XAI
-- **Data Engineering:** PostgreSQL, SQLAlchemy, ETL/ELT, Great Expectations
-- **BI & Visualization:** Power BI, Dashboards, KPI Storytelling
-
----
-
-### 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/raneem-alyami-88b628238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email:raneemalyami12@gmail.com
-
-_"Curious by nature, research-driven by choice."_
-
-
-
-### 🧩 Featured Projects
 
 - 🧠 **[Epileptic Seizure Prediction using EEG Signals](https://github.com/DSraneem/epileptic-seizure-prediction-eeg)**  
   Healthcare-focused AI project using EEG time-series data and machine learning.
@@ -65,3 +38,22 @@ _"Curious by nature, research-driven by choice."_
 
 - 📈 **[Big Data Analysis Project](https://github.com/DSraneem/big-data-analysis)**  
   Large-scale data processing and analytical insights.
+
+---
+
+### 🛠️ Skills
+- **Languages:** Python, SQL
+- **ML & AI:** Scikit-learn, Applied ML, XAI
+- **Data Engineering:** PostgreSQL, SQLAlchemy, ETL/ELT, Great Expectations
+- **BI & Visualization:** Power BI, Dashboards, KPI Storytelling
+
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/raneem-alyami-88b628238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Email:raneemalyami12@gmail.com
+
+_"Curious by nature, research-driven by choice."_
+
+
+
