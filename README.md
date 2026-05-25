@@ -1,18 +1,18 @@
 # Hi there, I'm Raneem 👋
 ## Data Science & Analytics | Applied Machine Learning | Data Engineering | Business Intelligence | AI Researcher
 
-Analytical and detail-oriented Data Science & Analytics student passionate about building
+ Data Science & Analytics passionate about building
 structured, explainable, and real-world AI solutions.
 My interests focus on AI, healthcare, biomedical data, and data-driven decision systems.
 
 ---
 
-### 🧠 About Me
-- 🎓 Data Science & Analytics student
-- 🔬 AI Researcher with interest in Explainable AI (XAI)
-- 🧬 Interested in Biomedical AI & Data Visualization
-- 📊 Business Intelligence & Data Storytelling
-- ⚙️ Data Engineering (ETL / ELT, Data Quality)
+###  About Me
+- 🎓 Data Science & Analytics
+-  AI Researcher 
+-  Interested in Biomedical AI 
+-  Business Intelligence & Data Storytelling
+- Data Engineering (ETL / ELT, Data Quality)
 
 ---
 
