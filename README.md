@@ -53,7 +53,6 @@ My interests focus on AI, healthcare, biomedical data, and data-driven decision 
 - LinkedIn: https://www.linkedin.com/in/raneem-alyami-88b628238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - Email:raneemalyami12@gmail.com
 
-_"Curious by nature, research-driven by choice."_
 
 
 
